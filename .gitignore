@@ -1,0 +1,11 @@
+.settings
+.DS_Store
+composer.lock
+composer.phar
+/app/bootstrap.php.cache
+/app/cache
+/app/logs
+/app/config/parameters.yml
+/nbproject
+/vendor
+/web/bundles
